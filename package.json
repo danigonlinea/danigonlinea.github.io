@@ -1,0 +1,13 @@
+{
+  "name": "danigonlinea.github.io",
+  "version": "1.0.0",
+  "description": "Personal Website made with Github Personal Website",
+  "repository": "git@github.com:danigonlinea/danigonlinea.github.io",
+  "author": "Daniel <danigonlinea@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload",
+    "start:static": "bundle exec jekyll serve"
+  }
+}
