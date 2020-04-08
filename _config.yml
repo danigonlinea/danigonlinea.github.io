@@ -47,12 +47,21 @@ social_media:
   # youtube: your_username
 
 topics:
+
+  - name: HTML
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/424px-HTML5_logo_resized.svg.png
+
+  - name: Javascript
+    image_url: https://f1.pngfuel.com/png/951/574/485/react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends-png-clip-art.png
+
   - name: CSS
-    web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: React
+    image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Redux
+    image_url: https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png
+
+  - name: Expo (React Native)
+    image_url: https://static.expo.dev/static/brand/square-512x512.png
