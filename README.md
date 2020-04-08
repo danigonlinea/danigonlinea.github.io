@@ -1,7 +1,5 @@
-# Personal Website
 
-
-Hi mate! Thanks for coming here!
+# Hi mate! Thanks for coming here!
 
 I'm Daniel and I'm frontend developer. This website is built with Github Personal Website and I will be publishing my work and knowledge that would be interested to share.
 
