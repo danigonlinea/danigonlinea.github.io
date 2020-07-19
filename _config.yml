@@ -65,3 +65,5 @@ topics:
 
   - name: Expo (React Native)
     image_url: https://static.expo.dev/static/brand/square-512x512.png
+
+theme: jekyll-theme-cayman
